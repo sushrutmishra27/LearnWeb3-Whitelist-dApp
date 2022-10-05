@@ -59,7 +59,7 @@ export const abi = [
           "name": "",
           "type": "bool"
         }
-      ],
+      ], 
       "stateMutability": "view",
       "type": "function"
     }
